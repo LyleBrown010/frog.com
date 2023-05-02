@@ -116,3 +116,20 @@ body{
     color: white;
     transform: rotateY(180deg);
   }
+.footer {
+    padding: 10px;
+    margin-top: 10px;
+}
+.iconsDiv {
+    text-align: left;
+    align-items: left;
+}
+
+.paraDiv {
+    text-align: center;
+}
+
+.icons {
+    height: 40px;
+    width: 40px;
+}
